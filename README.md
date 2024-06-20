@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Zaki Adhitia</h1>
 <h3 align="center">a student at Wikrama Vocational School, Bogor, majoring in software engineering.</h3>
 
