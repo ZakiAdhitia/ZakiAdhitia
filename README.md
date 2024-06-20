@@ -11,7 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/zaki adhitia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zaki adhitia" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zaki adhitia" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" href="http://www.linkedin.com/in/zaki-adhitia-250a7b2a3" height="30" width="40" /></a>
 <a href="https://instagram.com/zakiadhitia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zakiadhitia" height="30" width="40" /></a>
 </p>
 
