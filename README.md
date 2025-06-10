@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakiadhitia&label=Profile%20views&color=0e75b6&style=flat" alt="zakiadhitia" /> </p>
 
-- 🌱 I’m currently learning **PHP,Laravel,JavaScript,React,NodeJS**
+- 🌱 I’m currently learning **PHP,Laravel,JavaScript,React,NodeJS,Pyhton,Express JS**
 
 - 👨‍💻 All of my projects are available at [https://zakiadhitia.netlify.app/](https://zakiadhitia.netlify.app/)
 
