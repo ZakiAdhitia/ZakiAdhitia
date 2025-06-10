@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zaki Adhitia</h1>
-<h3 align="center">a student at Wikrama Vocational School, Bogor, majoring in software engineering.</h3>
+<h3 align="center">Software Development Antusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakiadhitia&label=Profile%20views&color=0e75b6&style=flat" alt="zakiadhitia" /> </p>
 
